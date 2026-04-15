@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jigar-reviews.github.io/Tonic-Greens-Reviews-2026-and-Complaints/sitemap.xml
